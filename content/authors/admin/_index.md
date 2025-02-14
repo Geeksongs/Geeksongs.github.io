@@ -3,7 +3,7 @@
 title: Python Song
 
 # Name pronunciation (optional)
-name_pronunciation: Python Song
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Python
@@ -11,7 +11,7 @@ last_name: Song
 
 # Status emoji
 status:
-  icon: ☕️💖📘🧑‍🎓️
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Python Song is a master's student at Columbia University with research interests in reinforcement learning, large language models, and robotics. He previously interned at JD.com as a machine learning algorithm engineer and is the author of *Learning Android Development from Scratch*. Additionally, he led the establishment of a tech startup, gaining extensive hands-on experience. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent systems.
+Python Song is a Master's student at **Columbia University** with research interests in Reinforcement Learning, Large Language Models, and Robotics. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent robotics.
