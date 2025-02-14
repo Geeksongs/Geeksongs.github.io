@@ -24,25 +24,19 @@ role: Full Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JD.com
+  - name: Columbia University
     url: https://jd.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:js6665@columbia.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/geeksongs
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=H5ESkGcAAAAJ&hl=en/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial General Intelligence
@@ -51,10 +45,10 @@ interests:
   - Large Language Model
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Operations Research
+    institution: Columbia University
+    date_start: 2024-09-30
+    date_end: 2026-05-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -71,12 +65,13 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Advanced Computing
+    institution: Univeristy of Sydney
+    date_start: 2020-01-01
+    date_end: 2024-01-01
     summary: |
-      GPA: 3.4/4.0
+      First-Class Honour
+      Vice-Chancellor's Scholarship
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -182,4 +177,4 @@ awards:
 
 ## About Me
 
-Python Song is a Master's student at **Columbia University** with research interests in Reinforcement Learning, Large Language Models, and Robotics. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent robotics.
+Python Song is a Master's student at **Columbia University** with research interests in *Reinforcement Learning, Large Language Models*, and *Robotics*. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent robotics.
