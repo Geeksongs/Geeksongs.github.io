@@ -49,22 +49,6 @@ education:
     institution: Columbia University
     date_start: 2024-09-30
     date_end: 2026-05-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Advanced Computing
     institution: Univeristy of Sydney
     date_start: 2020-01-01
@@ -74,9 +58,9 @@ education:
       Vice-Chancellor's Scholarship
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 
+      - 
+      - 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -140,8 +124,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -177,4 +159,4 @@ awards:
 
 ## About Me
 
-Python Song is a Master's student at **Columbia University** with research interests in *Reinforcement Learning, Large Language Models*, and *Robotics*. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent robotics.
+Doing AI research during the day. Blogger, Geek, and Hacker by night. He is also a Master's student at **Columbia University** with research interests in *Reinforcement Learning, Large Language Models*, and *Robotics*. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI). 
