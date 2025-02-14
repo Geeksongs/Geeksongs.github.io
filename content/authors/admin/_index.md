@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Python Song is a master's student at Columbia University with research interests in reinforcement learning, large language models, and robotics. He previously interned at JD.com as a machine learning algorithm engineer and is the author of *Learning Android Development from Scratch*. Additionally, he led the establishment of a tech startup, gaining extensive hands-on experience. His ultimate goal is to advance toward Artificial General Intelligence (AGI), driving innovation in intelligent systems.
