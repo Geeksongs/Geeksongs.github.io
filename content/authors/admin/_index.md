@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: Python Song
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Python Song
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Python
+last_name: Song
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️💖📘🧑‍🎓️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: trueEngineeer
 
 # Role/position/tagline
-role: Chief Scientist
+role: Full Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: JD.com
+    url: https://jd.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,17 +39,16 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=H5ESkGcAAAAJ&hl=en/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial General Intelligence
+  - Robotics
+  - Reinforcement Learning
+  - Large Language Model
 
 education:
   - area: PhD Artificial Intelligence
