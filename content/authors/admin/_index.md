@@ -54,25 +54,30 @@ education:
     date_start: 2020-01-01
     date_end: 2024-01-01
     summary: |
-      First-Class Honour
+      First-Class Honour  
+      
       Vice-Chancellor's Scholarship
       
       Courses included:
-      - 
-      - 
-      - 
+      - Natural Language Processing
+      - Machine Learning
+      - Deep Learning
+      - Stochastic Processes
+      - Probability Theory
+      - Linear Algebra
+      - Calculus
+      - Financial Engineering Project
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Machine Learning Algorithm Engineer
+    company_name: JD.com
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Risk control algorithm design
+      - MOE architecture construction
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -90,17 +95,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Pytorch
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: React-Native
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Flask
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -159,4 +164,4 @@ awards:
 
 ## About Me
 
-Doing AI research during the day. Blogger, Geek, and Hacker by night. He is also a Master's student at **Columbia University** with research interests in *Reinforcement Learning, Large Language Models*, and *Robotics*. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI). 
+Doing **AI research** during the day. **Blogger, Geek, and Hacker** by night. He is also a Master's student at **Columbia University** with research interests in *Reinforcement Learning, Large Language Models*, and *Robotics*. He previously interned at JD.com as a Machine Learning Algorithm Engineer and is the author of **Learning Android Development from Scratch**. Additionally, he led the establishment of a tech startup. His ultimate goal is to advance toward Artificial General Intelligence (AGI). 
